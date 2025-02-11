@@ -5,10 +5,6 @@ This project focuses on improving the Optical Character Recognition (OCR) accura
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Challenges and Learnings](#challenges-and-learnings)
-- [License](#license)
 
 ## Project Overview
 Bank forms often contain visual aids such as lines, grids, and checkboxes, which can hinder OCR systems from correctly extracting text. This project addresses these challenges by employing preprocessing methods using OpenCV and generative AI models like CycleGAN and Pix2Pix. By removing these graphical elements and standardizing the background, we enhance the OCR accuracy and reliability in text extraction.
